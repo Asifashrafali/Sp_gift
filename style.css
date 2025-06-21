@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(to right, #ffdde1, #ee9ca7);
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: #e91e63;
+  font-size: 3em;
+}
+
+img {
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  padding: 15px 25px;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
